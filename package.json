@@ -95,5 +95,11 @@
     "hammerjs": "^2.0.8",
     "rally": "^2.1.3",
     "sqlite": "^3.0.3"
+  },
+  "prettier":{
+    "trailingComma": "es5",
+    "tabWidth": 2,
+    "semi": false,
+    "singleQuote": true
   }
 }
